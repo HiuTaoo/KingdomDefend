@@ -17,3 +17,5 @@ MonoBehaviour:
   - Sand
   - Ground
   - Grass
+  banTilebaseNames:
+  - Bridge
